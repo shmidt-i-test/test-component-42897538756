@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-component-4256352
+  description: Some test component
+spec:
+  type: website
+  lifecycle: experimental
+  owner: shmidt-i
